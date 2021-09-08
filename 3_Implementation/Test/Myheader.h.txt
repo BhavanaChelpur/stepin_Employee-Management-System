@@ -1,0 +1,17 @@
+#ifndef __Myheader_H__
+#define __Myheader_H__
+
+
+void password(int);
+
+void add(FILE * fp);
+
+FILE * del(FILE * fp);
+
+void modify(FILE * fp);
+
+void display(FILE * fp);
+
+void Indivisual(FILE *fp);
+
+#endif
